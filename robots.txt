@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://grreo.github.io/QWA/sitemap.QWA.gz
